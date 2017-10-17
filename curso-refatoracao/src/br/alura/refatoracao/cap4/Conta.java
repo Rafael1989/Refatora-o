@@ -1,6 +1,6 @@
 package br.alura.refatoracao.cap4;
 
-public class Conta {
+public abstract class Conta {
 
 	private String titular;
 	private double saldo;
